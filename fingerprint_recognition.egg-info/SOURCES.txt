@@ -13,6 +13,7 @@ setup.py
 .idea/workspace.xml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/markdown-navigator/profiles_settings.xml
+dist/fingerprint_recognition-1.0-py3.9.egg
 docs/pipeline.png
 docs/results.png
 docs/ridges.png
@@ -26,6 +27,7 @@ docs/ScienceDirect_articles_21Jul2019_07-53-10.345/Fast-and-accurate-algorithm-f
 fingerprint_recognition.egg-info/PKG-INFO
 fingerprint_recognition.egg-info/SOURCES.txt
 fingerprint_recognition.egg-info/dependency_links.txt
+fingerprint_recognition.egg-info/requires.txt
 fingerprint_recognition.egg-info/top_level.txt
 output/0.png
 output/1.png

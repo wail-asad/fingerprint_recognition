@@ -7,7 +7,7 @@ install_requires = [] # Here we'll get: ["gunicorn", "docutils>=0.3", "lxml==0.5
 if os.path.isfile(requirementPath):
     with open(requirementPath) as f:
         install_requires = f.read().splitlines()
-setup(name="fingerprint_recognition", install_requires=install_requires,version='1.0',
+setup(name="fingerprint_recognition", install_requires=install_requires,version='1.1',
       packages=find_packages(),)
 
 # setup(name='fingerprint_recognition',
